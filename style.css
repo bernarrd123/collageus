@@ -4,11 +4,36 @@
     height: 100%;
     
 }
+
+.gambar1a{
+list-style-type: none;
+}
 .gambar1{
     margin: 0 auto;
+   display: flex;
     width: 75%;
     height: 45%;
-    display: flex;
-    justify-content: center;
     align-items: center;
+    list-style-type: none;
+}
+
+/* bagiantemgah */
+.gambarb2{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+   justify-content: space-around;
+    
+}
+.gambar2{
+    width: 100px;
+    height: 100px;
+    list-style-type: none;
+}
+   
+.gambar3{
+
+    width: 100px;
+    height: 100px;
+    list-style-type: none;
 }
